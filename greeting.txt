@@ -1,2 +1,3 @@
 Hello,Wassup!!
 kata 5 completed
+made this in merge-conflict-branch1
