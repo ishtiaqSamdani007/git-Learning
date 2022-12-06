@@ -2,3 +2,4 @@ Hello,Wassup!!
 kata 5 completed
 changed in master
 kata 6 completed
+changed in master
