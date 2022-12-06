@@ -4,3 +4,4 @@ changed in master
 kata 6 completed
 changed in master
 changed in mergesort
+kata 7 completed
