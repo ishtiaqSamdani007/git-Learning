@@ -1,2 +1,3 @@
 Hello,Wassup!!
 kata 5 completed
+changed in master
